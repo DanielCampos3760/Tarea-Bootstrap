@@ -23,3 +23,10 @@ Este proyecto consiste en un **Curriculum Vitae interactivo y responsivo** desar
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/DanielCampos3760/Tarea-Bootstrap.git](https://github.com/DanielCampos3760/Tarea-Bootstrap.git)
+
+## 🎨 Personalización (Tips de Bootstrap 5)
+Este proyecto es fácilmente adaptable. Aquí te explico cómo cambiar los estilos principales usando las clases de utilidad de Bootstrap:
+
+* **Cambiar Colores de Barras de Progreso:** Sustituye `bg-success`, `bg-info` o `bg-warning` por otras variantes como `bg-danger` (rojo) o `bg-dark` (negro).
+* **Modificar el Color de Título:** Cambia la clase `text-primary` en los encabezados `<h2>` por `text-secondary`, `text-info` o incluso un color personalizado en el archivo CSS.
+* **Ajustar Sombras:** Si prefieres un diseño más plano, elimina la clase `shadow-lg` del contenedor principal o cámbiala por `shadow-sm` para algo más sutil.
